@@ -1,1 +1,0 @@
-function e(){document.fullscreenEnabled&&!document.fullscreenElement&&document.documentElement.requestFullscreen({navigationUI:`hide`}).catch(()=>{})}export{e as t};
